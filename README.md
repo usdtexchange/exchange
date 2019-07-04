@@ -275,13 +275,13 @@ BTC 杠杆交易,比特币杠杆交易，ETH 杠杆交易,以太坊杠杆交易,
 
 支持多空双向交易，保证金低至 1%，收益放大 100 倍。
 
-<img src="https://github.com/freedom-is-life/crypto-exchange/blob/master/demo/images/def.png" width="720" height="300"/>
+<img src="https://github.com/god-exchange/god-exchange/blob/master/demo/images/def.png" width="720" height="300"/>
 
 ## 交易举例
 
 ### 买涨举例：
 
-<img src="https://github.com/freedom-is-life/crypto-exchange/blob/master/demo/images/buy1.png" width="558" height="413"/>
+<img src="https://github.com/god-exchange/god-exchange/blob/master/demo/images/buy1.png" width="558" height="413"/>
 比特币价格 50000，
 您有 50000，
 
@@ -293,7 +293,7 @@ BTC 杠杆交易,比特币杠杆交易，ETH 杠杆交易,以太坊杠杆交易,
 
 ### 买跌举例：
 
-<img src="https://github.com/freedom-is-life/crypto-exchange/blob/master/demo/images/buy2.png" width="558" height="413"/>
+<img src="https://github.com/god-exchange/god-exchange/blob/master/demo/images/buy2.png" width="558" height="413"/>
 比特币价格 50000，
 您有 50000，
 
@@ -321,31 +321,27 @@ BTC 杠杆交易,比特币杠杆交易，ETH 杠杆交易,以太坊杠杆交易,
 
 ### 交易页面
 
-<img src="https://github.com/freedom-is-life/crypto-exchange/blob/master/demo/images/trade.png" width="365" height="619"/>
-<img src="https://github.com/freedom-is-life/crypto-exchange/blob/master/demo/images/trade.gif" width="365" height="619"/>
-
-### 登录注册
-
-<img src="https://github.com/freedom-is-life/crypto-exchange/blob/master/demo/images/login.gif" width="365" height="619"/>
+<img src="https://github.com/god-exchange/god-exchange/blob/master/demo/images/trade.png" width="365" height="619"/>
+<img src="https://github.com/god-exchange/god-exchange/blob/master/demo/images/trade.gif" width="365" height="619"/>
 
 ### 挖矿页面
 
-<img src="https://github.com/freedom-is-life/crypto-exchange/blob/master/demo/images/mine.png" width="365" height="619"/>
+<img src="https://github.com/god-exchange/god-exchange/blob/master/demo/images/mine.png" width="365" height="619"/>
 
 ### 充值提币
 
-<img src="https://github.com/freedom-is-life/crypto-exchange/blob/master/demo/images/sell.png" width="365" height="619"/>
-<img src="https://github.com/freedom-is-life/crypto-exchange/blob/master/demo/images/buy.png" width="365" height="619"/>
-<img src="https://github.com/freedom-is-life/crypto-exchange/blob/master/demo/images/tibi.png" width="365" height="619"/>
+<img src="https://github.com/god-exchange/god-exchange/blob/master/demo/images/sell.png" width="365" height="619"/>
+<img src="https://github.com/god-exchange/god-exchange/blob/master/demo/images/buy.png" width="365" height="619"/>
+<img src="https://github.com/god-exchange/god-exchange/blob/master/demo/images/tibi.png" width="365" height="619"/>
 
 ## 后台管理
 
 ### 交易对管理
 
-<img src="https://github.com/freedom-is-life/crypto-exchange/blob/master/demo/images/contract.png" width="975" height="468"/>
+<img src="https://github.com/god-exchange/god-exchange/blob/master/demo/images/contract.png" width="975" height="468"/>
 ### 流水管理
-<img src="https://github.com/freedom-is-life/crypto-exchange/blob/master/demo/images/record.png" width="975" height="468"/>
+<img src="https://github.com/god-exchange/god-exchange/blob/master/demo/images/record.png" width="975" height="468"/>
 ### 用户充值
-<img src="https://github.com/freedom-is-life/crypto-exchange/blob/master/demo/images/recharge.png" width="975" height="468"/>
+<img src="https://github.com/god-exchange/god-exchange/blob/master/demo/images/recharge.png" width="975" height="468"/>
 ### 订单管理
-<img src="https://github.com/freedom-is-life/crypto-exchange/blob/master/demo/images/order.png" width="975" height="468"/>
+<img src="https://github.com/god-exchange/god-exchange/blob/master/demo/images/order.png" width="975" height="468"/>
